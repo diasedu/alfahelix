@@ -1,3 +1,15 @@
+<!-- Header -->
+<header>
+	<div class="container">
+		<div class="slider-container">
+			<div class="intro-text">
+				<div class="intro-lead-in">Aprenda com profissionais qualificados</div>
+				<div class="intro-heading">ALFAHELIX TREINAMENTOS</div>
+				<a href="#about" class="page-scroll btn btn-xl">CONHEÇA NOSSOS CURSOS</a>
+			</div>
+		</div>
+	</div>
+</header>
 <section id="about" class="light-bg">
   <div class="container">
     <div class="row">
