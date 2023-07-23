@@ -37,7 +37,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand page-scroll" href="#page-top"><img src="<?= base_url() ?>public/images/logo.png" alt="Lattes theme logo"></a>
+					<a class="navbar-brand page-scroll" href="#page-top"><img src="<?= base_url() ?>public/images/logo.svg" alt="Lattes theme logo"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -46,19 +46,16 @@
 							<a href="#page-top"></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">About</a>
+							<a class="page-scroll" href="#about">Sobre</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#services">Services</a>
+							<a class="page-scroll" href="#services">Cursos</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#portfolio">Portfolio</a>
+							<a class="page-scroll" href="#team">Equipe</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#team">Team</a>
-						</li>
-						<li>
-							<a class="page-scroll" href="#contact">Contact</a>
+							<a class="page-scroll" href="#contact">Contato</a>
 						</li>
 					</ul>
 				</div>
@@ -71,9 +68,9 @@
 			<div class="container">
 				<div class="slider-container">
 					<div class="intro-text">
-						<div class="intro-lead-in">Welcome To Our Studio!</div>
-						<div class="intro-heading">It's Nice To Meet You</div>
-						<a href="#about" class="page-scroll btn btn-xl">Tell Me More</a>
+						<div class="intro-lead-in">Aprenda com profissionais qualificados</div>
+						<div class="intro-heading">ALFAHELIX TREINAMENTOS</div>
+						<a href="#about" class="page-scroll btn btn-xl">CONHEÇA NOSSOS CURSOS</a>
 					</div>
 				</div>
 			</div>
